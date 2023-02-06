@@ -1,0 +1,21 @@
+{
+  "name": "dojo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.4.1",
+    "cypress-mochawesome-reporter": "^3.2.3",
+    "mocha-simple-html-reporter": "^2.0.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "fakers": "^0.0.0"
+  }
+}
